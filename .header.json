@@ -1,0 +1,17 @@
+{
+    "name": "LineRobot",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "target": "microbit",
+    "targetVersion": "4.0.11",
+    "id": "0aaff126-47b4-40a9-aab5-f73d996b36d0",
+    "recentUse": 1649364207,
+    "modificationTime": 1649364150,
+    "path": "LineRobot",
+    "blobCurrent_": false,
+    "cloudCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}

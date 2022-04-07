@@ -1,0 +1,16 @@
+{
+    "name": "LineRobot",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "MicroX": "github:DannyVarod/pxt-microbit-microx#33b4441e6ec0b893101bc6b20765273918a062a1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj"
+}
